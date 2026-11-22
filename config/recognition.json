@@ -1,0 +1,10 @@
+{
+  "width": 256, "height": 128,
+  "margin": 9, "divider_margin": 8, "divider_search": 10,
+  "dark_max": 125, "dark_white_ratio": 0.55,
+  "min_white": 120, "min_white_fraction": 0.80,
+  "divider_min_coverage": 0.45,
+  "area_min_fraction": 0.006, "area_max_fraction": 0.028,
+  "circularity_min": 0.65, "aspect_min": 0.65, "aspect_max": 1.55,
+  "noise_area": 12, "max_count": 6
+}

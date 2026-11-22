@@ -1,0 +1,17 @@
+{
+  "width": 256, "height": 128,
+  "margin": 9, "divider_margin": 8, "divider_search": 10,
+  "dark_max": 125, "dark_white_ratio": 0.57,
+  "min_white": 120, "min_white_fraction": 0.72,
+  "divider_min_coverage": 0.45,
+  "area_min_fraction": 0.015, "area_max_fraction": 0.050,
+  "circularity_min": 0.45, "aspect_min": 0.65, "aspect_max": 1.55,
+  "noise_area": 20, "max_count": 6,
+  "ignore_border_bands": true,
+  "band_aspect_min": 4.0,
+  "band_span_min_fraction": 0.60,
+  "band_thickness_max_fraction": 0.18,
+  "band_area_max_fraction": 0.15,
+  "band_fragment_max_fraction": 0.006,
+  "band_fragment_thickness_max_fraction": 0.06
+}

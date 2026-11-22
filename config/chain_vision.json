@@ -1,0 +1,18 @@
+{
+  "min_side": 28,
+  "max_side": 150,
+  "axis_tolerance_deg": 10,
+  "white_coverage_min": 0.85,
+  "divider_coverage_min": 0.50,
+  "divider_segment_min_fraction": 0.40,
+  "side_support_min": 0.35,
+  "score_min": 0.72,
+  "overlap_iou_max": 0.12,
+  "contact_tolerance_fraction": 0.18,
+  "ambiguity_score_gap": 0.06,
+  "max_hypotheses": 300,
+  "max_width_hypotheses": 5,
+  "dark_threshold": 130,
+  "rectified_margin": 9,
+  "border_retry_margin": 3
+}
