@@ -7,6 +7,11 @@ Proyecto de Inteligencia Artificial de UNEATLANTICO. El sistema detecta y separa
 | Visualizador digital | `AVVIA_VISUALIZZATORE.cmd` | Reconstruye la escena en un tablero digital y señala lecturas dudosas y uniones incompatibles. |
 | Asistente de partida | `avvia_domino_ai.cmd` | Abre directamente la partida física, registra la mano y los turnos, y recomienda jugadas con el Game Engine local. |
 
+
+## Vídeo demostrativo
+
+[Ver la demostración del proyecto Reto 07 — Dominó en YouTube](https://youtu.be/KJUkfJiOsgY).
+
 ## Instalación en Windows
 
 Se necesita Windows 10 u 11 de 64 bits, Python 3.12 con pip y Tcl/Tk, un iPhone compatible con Camo, un soporte cenital, un tapete de fieltro verde mate de al menos 50 × 50 cm y fichas claras con puntos oscuros del juego doble seis. La instalación requiere Internet. El procesamiento de vídeo y las recomendaciones se ejecutan en el equipo.
